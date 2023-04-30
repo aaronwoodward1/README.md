@@ -1,1 +1,10 @@
-Hi! 👋 I'm Aaron and welcome to my Github page! I'm interested in spatial analysis, machine learning, economics, sports analytics, housing and transportation. 
+**Hi! 👋 I'm Aaron and welcome to my Github page! **
+
+🤓 My interests are data visualization, machine learning, economics, sports analytics, housing, and transportation. 
+
+💼 My professional experience includes nearly 15 years in the private sector (finance, accounting and consulting) and the last 5 years in the Federal Government (your tax 💵 💵 at work 😉)
+
+My hobbies include coding 💻 (of course...), attending sporting events ⚾ 🏀 🏈 ⚽, travelling ✈️, reading 📖 , going to art museums 🎨, and cycling 🚲.
+
+Most of my repositories are public where I store code for my individual projects, mostly data visualizations. However, I believe its just as important to share some of the data manipulation techniques that I have learned in producing those data visualizations. Some of my repositories are devoted to data manipulation techniques, especially when dealing with spatial data (i.e., datasets with longitude and latitude coordinates and shapefiles).
+
