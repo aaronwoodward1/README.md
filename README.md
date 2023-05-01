@@ -2,7 +2,7 @@
 
 🤓 My interests are data visualization, machine learning, economics, sports analytics, housing, and transportation. 
 
-💼 My professional experience includes nearly 15 years in the private sector (finance, accounting and consulting) and the last 5 years in the Federal Government (your tax 💵 💵 at work 😉)
+💼 My professional experience includes nearly 15 years in the private sector (finance, accounting and consulting) and the last 5 years in the Federal Government (your tax 💵 💵 at work 😉).
 
 My hobbies include coding 💻 (of course...), attending sporting events ⚾ 🏀 🏈 ⚽, travelling ✈️, reading 📖 , going to art museums 🎨, and cycling 🚲.
 
