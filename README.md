@@ -1,4 +1,4 @@
-**Hi! 👋 I'm Aaron and welcome to my Github page! **
+### Hi! 👋 I'm Aaron and welcome to my Github page!
 
 🤓 My interests are data visualization, machine learning, economics, sports analytics, housing, and transportation. 
 
