@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Aaron and welcome to my Github page!
 
-🤓 My interests are data visualization, machine learning, economics, sports analytics, housing, and transportation. 
+🤓 My interests are data visualization 📊, machine learning and AI 🤖, economics 📈, sports analytics ⚽, housing 🏘️, and transportation 🚇. 
 
 💼 My professional experience includes nearly 15 years in the private sector (finance, accounting and consulting) and the last 5 years in the Federal Government (your tax 💵 💵 at work 😉).
 
